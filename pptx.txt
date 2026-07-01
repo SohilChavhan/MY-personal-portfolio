@@ -1,0 +1,68 @@
+
+
+AI-POWERED INFRASTRUCTURE MANAGEMENT FOR SAFER ROADS
+Team Code//Blooded: Sohil Chavhan, Awneesh Kumar, Shorya Ranjan
+ROAD SAFETY HACKATHON 2026
+
+THE CHALLENGE OF 
+INFRASTRUCTURE MAINTENANCE
+Slow Reporting –
+Citizens lack an intuitive, fast, and accessible way to report road hazards.
+Inefficient Inspections –
+Manual road inspections are time-consuming, expensive, and prone to human error.
+Resource Mismanagement –
+Authorities struggle to prioritize repairs and estimate budgets accurately without immediate, data-backed insights.
+
+
+
+₹
+Language Barriers –
+Existing tools are often only in English, alienating rural or non-English speaking citizens.
+
+
+WHY KRATER IS BETTER
+THAN THE PREVIOUS MARKET?
+IndianPotholes.com (Activist Approach) –
+The Flaw: Relied on public shaming; failed due to zero government integration.
+Krater Advantage: A dedicated B2G (Business-to-Government) tool with built-in bureaucratic accountability.
+
+2. PMC – RoadMitra (Local Govt. App) –
+The Flaw: A digital dumping ground that overwhelmed engineers with manual triage and math.
+Krater Advantage: Automated triage using YOLOv8 to calculate damage and budget before human review.
+
+3. PotHoleRaja (Private CSR Venture) –
+The Precedent: A successful NGO focused on physical road repair.
+Krater Advantage: We don't compete with labor, we provide the digital architecture NGOs need to automate their supply chains.
+Responsive Design –
+Supports both Mobile and PC Architecture with different themes and offline-awareness.
+AI-Analysis –
+Integrated Computer Vision (YOLOv8) to analyze user uploads, automatically calculating damage dimensions and generating instant budget estimates.
+Deep Localization and ChatBot –
+Full support for 14 different languages and a live Llama-3 AI agent reading real-time FireBase databases to provide citizens with localized, contextual updates on repair status.
+
+Smart Workflow –
+Engineered a secure database workflow requiring mutual sign-off from both Admin and Field-Inspector before unlocking a ticket or allocating budgets.
+Tech Stack –
+React, Vite, FireBase, Mapbox, Python, FastAPI, Uvicorn, YOLOv8, Keras/TensorFlow, Hugging Face Spaces, Vercel 
+Smart Geolocation & Jurisdiction Engine –
+Built an automated pipeline that extracts EXIF GPS data from photos, using MapBox API to reverse-geocode exact addresses and identify government jurisdiction (Municipal vs. Highway).
+
+HOW DOES KRATER WORK?
+Find and Upload
+The citizens snap a picture of the pothole and report it via KRATER.
+AI Analysis
+The system scans the image, drafting a report with severity and budget estimates. Then the user clicks "Report".
+Admin Verification
+The Admin receives the ticket, verifies the data, and chooses to "Confirm” or “Decline”.
+Action
+The Admin assigns a Road Inspector to physically verify the AI's report and then earmarks the preliminary funds. The citizen receives real-time tracking updates throughout the process.
+
+FUTURE ENHANCEMENTS
+Krater Credits-
+
+Citizens verify completed repairs by uploading a photo and rating the contractor's work. In return, they earn virtual points redeemable for UPI cashbacks or local vouchers, successfully crowdsourcing quality assurance while rewarding public engagement.
+4
+
+
+
+THANK YOU!
