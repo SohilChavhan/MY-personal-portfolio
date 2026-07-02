@@ -46,7 +46,7 @@ function Home() {
             Hi, I'm <strong style={{ color: 'var(--text-main)' }}>Sohil Chavhan</strong>, a 2nd-year B.Tech student studying CSE-AIML at VIT Bhopal University. I am always hungry for a learning experience and pride myself on being a "live with no regrets" kinda guy.
           </p>
           <p style={{ marginBottom: '1rem' }}>
-            My core skills include Python development, C++ development, Machine Learning, and AI. Beyond the code, I draw inspiration from the armed forces, anime, and music. I have a strong inclination towards creating something entirely new and thrive when leading a small, driven team.
+            My core skills include Python development, C++ development, Machine Learning, and AI. Beyond the code, I draw inspiration from the armed forces, the gym and music. I have a strong inclination towards creating something entirely new and thrive when leading a small, driven team.
           </p>
         </section>
 
